@@ -1,5 +1,8 @@
 <h2>Softİto Academy Graduation Project: Calorie Tracking Flutter App</h2>
 
+![eatwise](https://github.com/aliayhans/eatwise_calorie_mobile_app/assets/63375918/57509164-2c10-47f9-9829-b655990b6389)
+
+
 <h3>About the Project</h3>
 
 This project is the final assignment of the 2-month Flutter Mobile App course at Softİto Academy, affiliated with the Istanbul Chamber of Commerce. Developed by a team of 5 individuals, the application is a user-friendly mobile app designed for daily calorie tracking.
